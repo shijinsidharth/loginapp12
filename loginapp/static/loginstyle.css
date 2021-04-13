@@ -1,3 +1,7 @@
+body
+{
+    background-image: linear-gradient(rgb(125, 125, 187),rgb(41, 228, 125));
+}
 table
 {
     background-image: linear-gradient(to bottom,rgb(46, 32, 32),grey);
