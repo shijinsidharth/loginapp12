@@ -10,7 +10,9 @@ table
     border-radius: 20px;
     height: 400px;
     width: 50%;
-    opacity: 0.5;
+    background: rgba(57, 105, 153, 0.6);
+    
+   
 }
 .login
 {
