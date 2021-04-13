@@ -6,11 +6,11 @@ body
 table
 {
     background-image: linear-gradient(to bottom,rgb(46, 32, 32),grey);
-    border: 2px solid rgb(156, 156, 230);
+    border: 2px solid rgb(0, 0, 10);
     border-radius: 20px;
     height: 400px;
     width: 50%;
-    background: rgba(57, 105, 153, 0.6);
+    background: rgba(71, 88, 99, 0.6);
     
    
 }
